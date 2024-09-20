@@ -38,6 +38,8 @@ lags = range(35)
 #display the graph
 
 ### OUTPUT:
+![image](https://github.com/user-attachments/assets/e0f9f5ff-fe05-400d-b2fb-f0127c532d95)
+
 
 ### RESULT:
         Thus we have successfully implemented the auto correlation function in python.
